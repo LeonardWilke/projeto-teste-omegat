@@ -1,0 +1,14 @@
+5/3/24, 8:54 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     232	 3660	                  19861	                 23296	     1	
+Remaining:       	     232	 3660	                  19861	                 23296	     1	
+Unique:          	     218	 3611	                  19579	                 22978	     1	
+Unique Remaining:	     218	 3611	                  19579	                 22978	     1	
+
+
+Individual File Statistics:
+
+File Name                	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+4 [SMT] Jefter_Araçá.docx	           232	               232	            218	                      218	       3660	           3660	        3611	                  3611	                        19861	                            19861	                         19579	                                   19579	                       23296	                           23296	                        22978	                                  22978	
