@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="pt-BR">
+        <seg>Brazil is the world’s third largest producer of &lt;t0/&gt;Psidium cattleyanum&lt;t1/&gt; Sabine.</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Dell" changedate="20240504T001239Z" creationid="Dell" creationdate="20240504T001239Z">
+        <seg>Brazil is the world’s third largest producer of &lt;t0/&gt;Psidium cattleyanum&lt;t1/&gt; Sabine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pt-BR">
         <seg>Effect of cutting type, number &lt;t0/&gt;and area of leaves on rooting &lt;t1/&gt;of &lt;t2/&gt;Psidium cattleyanum &lt;t3/&gt;Sabine.</seg>
       </tuv>
       <tuv lang="en-US" changeid="Dell" changedate="20240504T000450Z" creationid="Dell" creationdate="20240504T000450Z">
