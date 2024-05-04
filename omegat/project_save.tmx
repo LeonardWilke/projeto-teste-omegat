@@ -12,6 +12,14 @@
         <seg>Effect of cutting type, number &lt;t0/&gt;and area of leaves on rooting &lt;t1/&gt;of &lt;t2/&gt;Psidium cattleyanum &lt;t3/&gt;Sabine.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="pt-BR">
+        <seg>Vegetative Propagation of Araçá</seg>
+      </tuv>
+      <tuv lang="en-US" changeid="Dell" changedate="20240504T001215Z" creationid="Dell" creationdate="20240504T001215Z">
+        <seg>Vegetative Propagation of Araçá</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
